@@ -1,6 +1,6 @@
-Loan Status
+##Loan Status
 
-Objective:The goal of this project is to predict the loan status of individuals based on various features provided in the dataset. Initially, we will focus on performing Exploratory Data Analysis (EDA) to understand the underlying patterns, trends, and relationships in the data. This will include data cleaning, visualizations, and statistical analysis to gain insights that will help in building a robust predictive model for loan status prediction.
+**Objective:**The goal of this project is to predict the loan status of individuals based on various features provided in the dataset. Initially, we will focus on performing Exploratory Data Analysis (EDA) to understand the underlying patterns, trends, and relationships in the data. This will include data cleaning, visualizations, and statistical analysis to gain insights that will help in building a robust predictive model for loan status prediction.
 
 ## DataSet Description
 
